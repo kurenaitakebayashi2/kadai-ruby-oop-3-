@@ -10,4 +10,4 @@ suzuki.think
 
 sato   = Human.new("佐藤　花子", 20, "映画")
 sato.say
-sato think
+sato.think
